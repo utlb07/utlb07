@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **utkarsh.mnnit14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fp6LpJ3WoHADdCgKZGPqSrfCiiniWEeM/view?usp=sharing](https://drive.google.com/file/d/1Fp6LpJ3WoHADdCgKZGPqSrfCiiniWEeM/view?usp=sharing)
+- 📄 Know about my experiences. (https://drive.google.com/file/d/1Dnyr3dco7sgYk_x5QJuG-EYiwJtIAxra/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
