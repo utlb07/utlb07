@@ -26,7 +26,7 @@
 <a href="https://www.codechef.com/users/utd_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="utd_07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/uttu_mnnit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="uttu_mnnit" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/uj07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="uj07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/b2r-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="b2r-07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/b2r-lb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="b2r-07" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/utlb07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="utlb07" height="30" width="40" /></a>
 </p>
 
